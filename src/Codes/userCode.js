@@ -1,9 +1,7 @@
 export const userCode = 
-`class BeingZero{
-    boolean solve(int num){
-        // write your code here
-
-        return true;
+`class Main{
+    public static void main(String[] args){
+        System.out.println("hello world");
     }
 }
 `
